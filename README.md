@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Gean Victor from Brazil  🇧🇷<br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning about Spring Boot</p>
+<p align="left">I'm Gean Victor from Brazil  🇧🇷<br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning about NestJs</p>
 
 ###
 
